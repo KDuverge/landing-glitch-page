@@ -9,7 +9,7 @@ body {
 .landing {
   width: 100%;
   height: 100vh;
-  background: url('pic.jpeg');
+  background: url('pic2.jpeg');
   /* background-repeat: no-repeat;
   background-position: center; */
   background-size: cover;
@@ -17,7 +17,7 @@ body {
 }
 
 .landing h1 {
-  color: #000;
+  color: #fff;
   z-index: 1;
   position: absolute;
   top: 50%;
@@ -29,7 +29,7 @@ body {
   font-weight: lighter;
   font-size: 3em;
   text-align: center;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #fff;
   padding-bottom: 30px;
   
 }
@@ -39,7 +39,7 @@ body {
   position: absolute;
   width: 100%;
   height: 100vh;
-  background: url('pic.jpeg');
+  background: url('pic2.jpeg');
   background-size: cover;
   top: 0;
   left: 0;
